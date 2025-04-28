@@ -50,9 +50,9 @@ The findings demonstrate how education, experience, and job roles influence sala
 ## 👤 Author
 
 **Opeyemi Morakinyo**  
-📧 [Email](mailto:opeyemi.morakinyo@email.com)  
-🔗 [LinkedIn](https://linkedin.com/in/opeyemi-morakinyo)  
-💻 [GitHub](https://github.com/opeyemianalyst)
+📧 [Email](mailto:yemigunju0@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/opeyemimorakinyo)  
+💻 [GitHub](https://github.com/yemigunju)
 
 ---
 
