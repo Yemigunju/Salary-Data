@@ -47,13 +47,15 @@ The findings demonstrate how education, experience, and job roles influence sala
 
 ---
 
-## 🚀 Future Work
+## 👤 Author
 
-- Apply predictive modeling to forecast salary growth trends.
-- Expand analysis to include industry and regional breakdowns.
-- Integrate employee engagement and satisfaction metrics into salary evaluations.
+**Opeyemi Morakinyo**  
+📧 [Email](mailto:opeyemi.morakinyo@email.com)  
+🔗 [LinkedIn](https://linkedin.com/in/opeyemi-morakinyo)  
+💻 [GitHub](https://github.com/opeyemianalyst)
 
 ---
 
-## 📁 Project Structure
+> *Feel free to fork, star ⭐, or contribute to this project. Let's build more data-driven solutions together!*
+
 
